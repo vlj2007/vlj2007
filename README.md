@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi there 👋, my name is Vladimir Potapov.
+## Hi there 👋, my name is Vladimir Potapov.
 I'm from the Russia.
 
 <!--
