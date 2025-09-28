@@ -7,7 +7,6 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 
-[![Image of my-profile-views-counter](https://github.com/vlj2007/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/vlj2007/my-profile-views-counter/blob/master/readme/373383893/week.md)
 
 
 
