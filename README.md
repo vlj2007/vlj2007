@@ -3,9 +3,6 @@ I'm from the Russia.
 I have a university degree in Information Systems and Technologies. I am experienced in programming with Java.
 
 
-![](https://komarev.com/ghpvc/?username=vlj2007&style=flat-square&abbreviated=true)
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
 
