@@ -6,6 +6,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 ![](https://komarev.com/ghpvc/?username=vlj2007&style=flat-square&abbreviated=true)
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&color=ce9927&style=flat" alt="vlj2007" /> </p>
+
 
 <!--
 **vlj2007/vlj2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
