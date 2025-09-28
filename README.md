@@ -6,6 +6,11 @@ I have a university degree in Information Systems and Technologies. I am experie
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
 
+
+[![Image of my-profile-views-counter](https://github.com/vlj2007/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/vlj2007/my-profile-views-counter/blob/master/readme/373383893/week.md)
+
+
+
 <!--
 **vlj2007/vlj2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
