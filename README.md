@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Vladimir Potapov.
 I'm from the Russia.
+I have a university degree in Information Systems and Technologies. I am experienced in programming with Java.
 
 <!--
 **vlj2007/vlj2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
