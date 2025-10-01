@@ -28,8 +28,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=green"
+    media="(prefers-color-scheme: green)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true"
