@@ -17,6 +17,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&stats_format=bytes)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=pie)](https://github.com/vlj2007/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=radical)
