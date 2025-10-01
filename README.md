@@ -12,17 +12,14 @@ I have a university degree in Information Systems and Technologies. I am experie
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/vlj2007/github-readme-stats)
 
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-
-
-
 
 
 
