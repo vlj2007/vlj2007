@@ -15,10 +15,10 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=compact&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
