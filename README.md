@@ -13,8 +13,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 
-<!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-dark-mode-only) -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-light-mode-only)
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-light-mode-only) -->
 
 
 <a href="https://github.com/vlj2007/habr-career">
