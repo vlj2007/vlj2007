@@ -22,10 +22,10 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 <a href="https://github.com/vlj2007/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
 </a>
 <a href="https://github.com/vlj2007/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=password-search" />
 </a>
 
 
