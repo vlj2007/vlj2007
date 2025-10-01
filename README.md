@@ -25,6 +25,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vlj2007)](https://github.com/vlj2007/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=radical)
 
