@@ -12,13 +12,16 @@ I have a university degree in Information Systems and Technologies. I am experie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
 
 
+<!-- my repository 
 
 <a href="https://github.com/vlj2007/habr-career">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
 </a>
 <a href="https://github.com/vlj2007/password-search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=password-search" />
-</a>
+</a> 
+
+-->
 
 
 
