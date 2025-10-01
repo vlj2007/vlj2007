@@ -6,14 +6,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/vlj2007/github-readme-stats)
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=compact)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vlj2007)](https://github.com/vlj2007/github-readme-stats)
