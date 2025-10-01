@@ -19,7 +19,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&hide_progress=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=pie)](https://github.com/vlj2007/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=compact)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
