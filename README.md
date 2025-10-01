@@ -2,20 +2,20 @@
 I'm from the Russia.
 I have a university degree in Information Systems and Technologies. I am experienced in programming with Java.
 
-
+<!-- count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/vlj2007/github-readme-stats)
+<!-- my stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/vlj2007/github-readme-stats)
+
+<!-- my language -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&bg_color=00000000)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-dark-mode-only)
+
+
 
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-light-mode-only)
@@ -24,7 +24,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 <a href="https://github.com/vlj2007/habr-career">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
 </a>
-<a href="https://github.com/vlj2007/convoychat">
+<a href="https://github.com/vlj2007/password-search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=password-search" />
 </a>
 
