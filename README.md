@@ -21,8 +21,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-light-mode-only)
 
 
-<a href="https://github.com/vlj2007/github-readme-stats">
-  <img align="center" src="https://habr-career.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
+<a href="https://github.com/vlj2007/habr-career">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
 </a>
 <a href="https://github.com/vlj2007/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=password-search" />
