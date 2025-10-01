@@ -25,7 +25,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 
-
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=green"
@@ -37,7 +37,7 @@ I have a university degree in Information Systems and Technologies. I am experie
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true" />
 </picture>
-
+-->
 
 
 
