@@ -12,12 +12,6 @@ I have a university degree in Information Systems and Technologies. I am experie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
 
 
-<p> 111 </p>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vlj2007&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vlj2007/github-readme-stats#gh-light-mode-only)
-
-<p> 222 </p>
-
 
 <a href="https://github.com/vlj2007/habr-career">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vlj2007&repo=habr-career" />
