@@ -12,3 +12,24 @@ I have a university degree in Information Systems and Technologies. I am experie
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent&bg_color=00000000" />
 </a>
 
+## My favorite tools and technologies ⚙️
+
+
+<table>
+  <tr>
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
