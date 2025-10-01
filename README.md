@@ -10,6 +10,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007)](https://github.com/vlj2007/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&stats_format=bytes)
+
 
 
 
