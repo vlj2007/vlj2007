@@ -9,8 +9,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/vlj2007/github-readme-stats)
 
 <!-- my language -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&size_weight=0.5&count_weight=0.5)](https://github.com/vlj2007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=donut)](https://github.com/vlj2007/github-readme-stats)
 
 <!-- my repository 
 
@@ -40,7 +40,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=donut)](https://github.com/vlj2007/github-readme-stats)
+
 
 
 
