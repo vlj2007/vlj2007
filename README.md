@@ -5,6 +5,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&stats_format=bytes)
 
 
 
