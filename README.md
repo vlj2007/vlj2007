@@ -5,19 +5,10 @@ I have a university degree in Information Systems and Technologies. I am experie
 <!-- count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
-<!-- my stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/vlj2007/github-readme-stats)
-
-<!-- my language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/vlj2007/github-readme-stats)
-
-
-
-
 <a href="https://github.com/vlj2007/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000" />
 </a>
-<a href="https://github.com/vlj2007/convoychat">
+<a href="https://github.com/vlj2007/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent&bg_color=00000000" />
 </a>
 
