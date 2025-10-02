@@ -95,7 +95,14 @@ I have a university degree in Information Systems and Technologies. I am experie
     <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
   <br>Git
   </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png width="65" height="65" alt="Swagger" />
+      <br>Swagger
+    </td>
+    
 
-   
  </tr>
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+ 
 </table>
