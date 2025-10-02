@@ -84,17 +84,21 @@ I have a university degree in Information Systems and Technologies. I am experie
       <br>Linux
   </td>
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
     <br>Docker
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="jquery" />
+    <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
     <br>PostgreSQL
   </td>  
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
   <br>Git
   </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swagger" width="65" height="65" alt="Swagger" />
+      <br>Swagger
+    </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png width="65" height="65" alt="Swagger" />
       <br>Swagger
