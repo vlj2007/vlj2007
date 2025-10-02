@@ -11,8 +11,29 @@ I have a university degree in Information Systems and Technologies. I am experie
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vlj2007's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vlj2007&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/vlj2007?tab=repositories"><img alt="vlj2007's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vlj2007
+                                                            &show_icons=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+                                                            &show_icons=true
+                                                            &count_private=true
+                                                            &theme=transparent
+                                                            &hide_border=true
+                                                            &bg_color=fff
+                                                            &title_color=00000000
+                                                            &icon_color=00000000" height="192px"/></a>
+  
+  <a href="https://github.com/vlj2007?tab=repositories"><img alt="vlj2007's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlj2007
+                                                          &langs_count=8
+                                                          &layout=donut
+                                                          &theme=transparent
+                                                          &hide_border=true                                                   
+                                                          &title_color=000
+                                                          &icon_color=000
+                                                          &card_width=320
+                                                          &size_weight=0.5
+                                                          &count_weight=0.5
+                                                          &show_icons=true
+                                                          &bg_color=00000000
+                                                          &hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -21,10 +42,23 @@ I have a university degree in Information Systems and Technologies. I am experie
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
 <a href="https://github.com/vlj2007?tab=repositories">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&bg_color=00000000" height="192px" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=vlj2007
+    &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+    &show_icons=true
+    &theme=transparent
+    &bg_color=00000000" height="192px" />
 </a>
+  
 <a href="https://github.com/vlj2007?tab=repositories">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent&bg_color=00000000" height="192px"/>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlj2007
+    &layout=donut
+    &langs_count=8
+    &card_width=320
+    &size_weight=0.5
+    &count_weight=0.5
+    &show_icons=true
+    &theme=transparent
+    &bg_color=00000000" height="192px"/>
 </a>
  <br/>
 </details>
