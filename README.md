@@ -42,8 +42,8 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 <table>
   <tr>
-  <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=java&theme=light)" width="48" height="48" alt="Linux" />
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=java&theme=light)" width="65" height="65" alt="Java" />
       <br>Java
     </td>    
     <td align="center" width="96">
