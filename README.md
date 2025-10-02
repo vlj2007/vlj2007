@@ -47,22 +47,6 @@ I have a university degree in Information Systems and Technologies. I am experie
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>  
-  </tr>
-  
- <tr>
-   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
@@ -70,7 +54,7 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
@@ -78,9 +62,10 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-
-
-   
- </tr>
- 
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>  
+  </tr>
+ <!-- <tr></tr> --> 
 </table>
