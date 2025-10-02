@@ -45,7 +45,11 @@ I have a university degree in Information Systems and Technologies. I am experie
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=java&theme=light" width="65" height="65" alt="Java" />
       <br>Java
-    </td>    
+    </td>
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=idea&theme=light" width="65" height="65" alt="Java" />
+      <br>Idea
+    </td>  
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
       <br>Linux
