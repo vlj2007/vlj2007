@@ -63,11 +63,11 @@ I have a university degree in Information Systems and Technologies. I am experie
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgrestheme=light" width="65" height="65" alt="jquery" />
       <br>PostgreSQL
     </td>  
   </tr>
