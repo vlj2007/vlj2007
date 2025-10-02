@@ -57,10 +57,7 @@ I have a university degree in Information Systems and Technologies. I am experie
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65" height="65" alt="Postman" />
       <br>Postman    
-    <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
-      <br>Linux
-    </td>
+    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="65" height="65" alt="Gitlab" />
       <br>Gitlab
@@ -77,18 +74,28 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="jquery" />
-      <br>PostgreSQL
-    </td>  
+    
+    
+   
   </tr>
- <!-- <tr></tr> --> 
+  <tr>
+   <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
+      <br>Linux
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="jquery" />
+    <br>PostgreSQL
+  </td>  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+  <br>Git
+  </td>
+
+   
+ </tr>
 </table>
