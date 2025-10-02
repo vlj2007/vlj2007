@@ -26,6 +26,16 @@ I have a university degree in Information Systems and Technologies. I am experie
 </details>
 
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vlj2007&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+
 <!--
 <details>
   <summary>Wakatime ⏳</summary>
