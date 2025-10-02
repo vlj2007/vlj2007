@@ -112,12 +112,28 @@ I have a university degree in Information Systems and Technologies. I am experie
       <br>lombok
     </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" width="65" height="65" alt="liquibase" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" width="65" height="65" alt="Liquibase" />
       <br>liquibase
     </td>
-    
-
  </tr>
+ <tr>
+   <td align="center" width="96">
+     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="65" height="65" alt="Hibernate" />
+     <br>Hibernate
+   </td>
+   <td align="center" width="96">
+     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="65" height="65" alt="Spring boot" />
+     <br>Spring boot
+   </td>
+
+
+   
+ 
+  </tr>
+
+
+
+ 
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
  
