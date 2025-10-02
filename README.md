@@ -19,17 +19,32 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vlj2007&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@vlj2007/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@vlj2007/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+</details>
+
+
 
 ## My favorite tools and technologies ⚙️
 
 
 
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vlj2007&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
-</details>
 
 
 
