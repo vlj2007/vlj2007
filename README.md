@@ -2,9 +2,6 @@
 I'm from the Russia.
 I have a university degree in Information Systems and Technologies. I am experienced in programming with Java.
 
-<!-- count 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
--->
 
 
 <details>
@@ -20,7 +17,6 @@ I have a university degree in Information Systems and Technologies. I am experie
 </details>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
 <details>
   <summary>Profile Views 👁️</summary>
@@ -29,35 +25,16 @@ I have a university degree in Information Systems and Technologies. I am experie
 </details>
 
 
+
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vlj2007&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </details>
 
-
-
-<!--
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@vlj2007/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@vlj2007/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
--->
 
 
 ## My favorite tools and technologies ⚙️
-
-
-
-
 
 
 
@@ -79,9 +56,7 @@ I have a university degree in Information Systems and Technologies. I am experie
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
-    </td>
-
-    
+    </td>  
   </tr>
   
  <tr>
