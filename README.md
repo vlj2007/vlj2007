@@ -54,7 +54,9 @@ I have a university degree in Information Systems and Technologies. I am experie
      <img src="https://skillicons.dev/icons?i=spring&theme=light" width="65" height="65" alt="Spring" />
       <br>Spring
     </td>
-    spring
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65" height="65" alt="Postman" />
+      <br>Postman    
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
       <br>Linux
