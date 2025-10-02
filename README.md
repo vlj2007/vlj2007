@@ -126,6 +126,11 @@ I have a university degree in Information Systems and Technologies. I am experie
      <br>Spring boot
    </td>
 
+  <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+     <br>Bash
+   </td>
+
 
    
  
