@@ -5,11 +5,6 @@ I have a university degree in Information Systems and Technologies. I am experie
 <!-- count -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vlj2007&label=Profile%20views&style=flat-square&abbreviated=true" alt="vlj2007" /> </p>
 
-
-
-
-
-
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
@@ -26,6 +21,16 @@ I have a university degree in Information Systems and Technologies. I am experie
 
 
 ## My favorite tools and technologies ⚙️
+
+
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vlj2007&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
 
 
 <table>
