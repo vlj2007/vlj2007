@@ -25,7 +25,6 @@ I have a university degree in Information Systems and Technologies. I am experie
                                                           &langs_count=8
                                                           &layout=donut
                                                           &theme=transparent
-                                                          &hide_border=true                                                   
                                                           &title_color=000
                                                           &icon_color=000
                                                           &card_width=320
