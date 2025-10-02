@@ -111,7 +111,6 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="65" height="65" alt="lombok" />
       <br>lombok
     </td>
-    <td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" width="65" height="65" alt="liquibase" />
       <br>liquibase
