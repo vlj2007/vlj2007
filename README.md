@@ -26,7 +26,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 </details>
 
 
-
+<!--
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
@@ -37,7 +37,7 @@ I have a university degree in Information Systems and Technologies. I am experie
 
   <img src="https://wakatime.com/share/@vlj2007/b43da924-55df-4315-897d-e4dd9fb798f9.png">
 </details>
-
+-->
 
 
 ## My favorite tools and technologies ⚙️
