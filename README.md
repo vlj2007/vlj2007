@@ -104,6 +104,12 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="65" height="65" alt="lombok" />
+      <br>lombok
+    </td>
+
+    
     
 
  </tr>
