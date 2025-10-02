@@ -47,6 +47,10 @@ I have a university degree in Information Systems and Technologies. I am experie
       <br>Java
     </td>
     <td align="center" width="96">
+     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" width="65" height="65" alt="Groovy" />
+      <br>Groovy
+    </td>
+    <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=idea&theme=light" width="65" height="65" alt="Idea" />
       <br>Idea
     </td>
@@ -70,10 +74,7 @@ I have a university degree in Information Systems and Technologies. I am experie
      <img src="https://skillicons.dev/icons?i=maven&theme=light" width="65" height="65" alt="Maven" />
       <br>Maven
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
+    
     
     
    
@@ -98,6 +99,10 @@ I have a university degree in Information Systems and Technologies. I am experie
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" width="65" height="65" alt="Swagger" />
       <br>Swagger
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
     </td>
     
 
