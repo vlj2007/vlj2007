@@ -29,6 +29,13 @@ I have a university degree in Information Systems and Technologies. I am experie
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
       <br>Pytest
     </td>
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+
+    
   </tr>
   
  <tr>
