@@ -56,8 +56,8 @@ I have a university degree in Information Systems and Technologies. I am experie
     </td>
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65" height="65" alt="Postman" />
-      <br>Postman    
-    
+      <br>Postman 
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="65" height="65" alt="Gitlab" />
       <br>Gitlab
