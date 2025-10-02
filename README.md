@@ -13,7 +13,6 @@ I have a university degree in Information Systems and Technologies. I am experie
   <br/>
     <a href="https://github.com/vlj2007?tab=repositories"><img alt="vlj2007's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vlj2007
                                                             &show_icons=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-                                                            &show_icons=true
                                                             &count_private=true
                                                             &theme=transparent
                                                             &hide_border=true
